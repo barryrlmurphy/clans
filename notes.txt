@@ -2,9 +2,14 @@
 Clans Game Dev Notes
 ---------------------
 
+cloud9 ref: https://docs.c9.io/writing_a_php_app.html
+
 Game ideas
 ----------
 www.grepolis.com
 - map
 - interesting game elements
+
+www.nationstates.net
+- poor game but some useful ideas around nation/clan attributes
 
