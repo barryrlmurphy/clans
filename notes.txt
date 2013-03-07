@@ -15,3 +15,10 @@ www.nationstates.net
 
 site about scottish clans
 http://www.greatscottishclans.com/clans.php
+
+floating cloads in canvas
+http://silveiraneto.net/2011/06/02/simple-html5-animation-clouds-over-background/
+http://culturedcode.com/beta/thingscloud/signup/
+
+click-and-drag maps
+http://candrews.net/blog/2010/10/introducing-sprymap/
