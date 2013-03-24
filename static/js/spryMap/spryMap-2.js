@@ -49,16 +49,22 @@ function SpryMap(param) {
      */
     function MoveMap(x, y) {
         var newX = x, newY = y;
+        console.log("x: " + x + ", y: " + y);
         if(m.lockEdges) {
+            console.log("m.map.offsetWidth: " + m.map.offsetWidth + ", m.map.offsetHeight: " + m.map.offsetHeight);
+            console.log("m.viewingBox.offsetWidth: " + m.viewingBox.offsetWidth + ", m.viewingBox.offsetHeight: " + m.viewingBox.offsetHeight);
             var rightEdge = -m.map.offsetWidth + m.viewingBox.offsetWidth,
                 topEdge = -m.map.offsetHeight + m.viewingBox.offsetHeight;
+            console.log("rightEdge: " + rightEdge + ", topEdge: " + topEdge);
             newX = newX < rightEdge ? rightEdge : newX;
             newY = newY < topEdge ? topEdge : newY;
             newX = newX > 0 ? 0 : newX;
             newY = newY > 0 ? 0 : newY;
         }
+        console.log("newX: " + newX + ", newY: " + newY);
         m.map.style.left = newX + "px";
         m.map.style.top = newY + "px";
+        console.log("---------------------------");
     }
     
     /**

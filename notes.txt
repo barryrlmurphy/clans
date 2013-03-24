@@ -13,8 +13,16 @@ www.grepolis.com
 www.nationstates.net
 - poor game but some useful ideas around nation/clan attributes
 
-site about scottish clans
+good idea strategy games
+http://almansur.net/
+http://www.ogame.org/
+http://www.weewar.com/signUp;jsessionid=B961E048E22D881B9254D77A8FE7B21E.worker2
+
+site about scottish clans and culture
 http://www.greatscottishclans.com/clans.php
+http://medieval2.heavengames.com/m2tw/history/faction_histories/faction_histories/gaels_of_scotland/index.shtml
+http://en.wikipedia.org/wiki/List_of_Scottish_clans
+http://www.scotclans.com/scottish_clans/clan_mackay/tartan.html
 
 floating cloads in canvas
 http://silveiraneto.net/2011/06/02/simple-html5-animation-clouds-over-background/
@@ -22,3 +30,18 @@ http://culturedcode.com/beta/thingscloud/signup/
 
 click-and-drag maps
 http://candrews.net/blog/2010/10/introducing-sprymap/
+
+animation
+http://www.spritely.net/gallery/
+
+highland video games and mods
+http://www.twcenter.net/forums/showthread.php?562857-The-Kingdoms-of-the-Isles-Developer-Diary-every-Friday-(Commencing-21-09-12)
+
+menu
+http://www.flodden.net/pages/tour/background-to-the-battle
+
+map
+http://www.danielabernathy.com/2012/03/01/creating-an-interactive-map-incredibly-fast-without-canvas-or-flash/
+http://www.maschek.hu/imagemap/imgmap
+
+

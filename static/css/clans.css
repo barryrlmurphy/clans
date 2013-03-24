@@ -4,8 +4,8 @@ body, html {
     height: 100%;
     padding: 0;
     margin: 0;
-    background-image: url(/static/images/watertile.png);
-	background-color: rgb(0, 0, 0);
+    /*background-image: url(/static/images/watertile.png);*/
+	background-color: #DAF0FD;
 	cursor: default;
 	background-position: 0px 0px;
 	background-repeat: repeat repeat;
@@ -29,6 +29,9 @@ body, html {
 	-webkit-user-select: none;
 	-ms-user-select: none;
 }
+
+/* castles */
+
 div.castles {
     position: absolute;
     top: 0px;
@@ -68,6 +71,24 @@ div.castle {
     left: 722px;
 }
 .castle#castle_maclean {
+    top: 881px;
+    left: 774px;
+}
+
+/* armies */
+
+div.army {
+    width: 69px;
+    height: 66px;
+    position: absolute;
+    z-index: 51;
+    background-image: url(/static/images/a1.png);
+    background-position: 0px 0px;
+    background-size: 69px 66px;
+    background-repeat: no-repeat;
+    cursor: pointer;    
+}
+.army#army_macdonald {
     top: 881px;
     left: 774px;
 }
